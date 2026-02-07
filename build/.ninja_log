@@ -1,0 +1,20 @@
+# ninja log v5
+0	54	1760956117573681533	CMakeFiles/data_structures_c.dir/src/CircularLinkedList.c.o	3985ed4cb6a47d0f
+0	16	1760892746302603342	CMakeFiles/data_structures_c.dir/src/main.c.o	ef51711ed067dc1b
+54	78	1760956117596681887	data_structures_c	380e3ed2480a8de9
+0	59	1760995588116420246	CMakeFiles/data_structures_c.dir/src/CircularLinkedList.c.o	3985ed4cb6a47d0f
+59	91	1760995588148420777	data_structures_c	380e3ed2480a8de9
+0	22	1760995724998691032	CMakeFiles/data_structures_c.dir/src/CircularLinkedList.c.o	3985ed4cb6a47d0f
+22	39	1760995725015691314	data_structures_c	380e3ed2480a8de9
+0	23	1760995753122157582	CMakeFiles/data_structures_c.dir/src/CircularLinkedList.c.o	3985ed4cb6a47d0f
+23	41	1760995753140157881	data_structures_c	380e3ed2480a8de9
+0	19	1760995918096894403	CMakeFiles/data_structures_c.dir/src/CircularLinkedList.c.o	3985ed4cb6a47d0f
+19	35	1760995918111894652	data_structures_c	380e3ed2480a8de9
+0	16	1760995951993456719	CMakeFiles/data_structures_c.dir/src/main.c.o	ef51711ed067dc1b
+17	32	1760995952008456968	data_structures_c	380e3ed2480a8de9
+0	18	1760995976676866196	CMakeFiles/data_structures_c.dir/src/main.c.o	ef51711ed067dc1b
+18	31	1760995976688866395	data_structures_c	380e3ed2480a8de9
+0	22	1760996158924889555	CMakeFiles/data_structures_c.dir/src/CircularLinkedList.c.o	3985ed4cb6a47d0f
+22	36	1760996158938889788	data_structures_c	380e3ed2480a8de9
+0	23	1760996404773968018	CMakeFiles/data_structures_c.dir/src/CircularLinkedList.c.o	3985ed4cb6a47d0f
+23	38	1760996404788968267	data_structures_c	380e3ed2480a8de9

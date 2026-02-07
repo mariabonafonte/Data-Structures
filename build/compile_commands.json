@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/maria/Desktop/drive mario/2º mario/data_structures/last exam C/CircularLinkedList/build",
+  "command": "/usr/bin/clang  -I\"/Users/maria/Desktop/drive mario/2º mario/data_structures/last exam C/CircularLinkedList/src\" -g -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/data_structures_c.dir/src/CircularLinkedList.c.o -c \"/Users/maria/Desktop/drive mario/2º mario/data_structures/last exam C/CircularLinkedList/src/CircularLinkedList.c\"",
+  "file": "/Users/maria/Desktop/drive mario/2º mario/data_structures/last exam C/CircularLinkedList/src/CircularLinkedList.c",
+  "output": "CMakeFiles/data_structures_c.dir/src/CircularLinkedList.c.o"
+},
+{
+  "directory": "/Users/maria/Desktop/drive mario/2º mario/data_structures/last exam C/CircularLinkedList/build",
+  "command": "/usr/bin/clang  -I\"/Users/maria/Desktop/drive mario/2º mario/data_structures/last exam C/CircularLinkedList/src\" -g -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/data_structures_c.dir/src/main.c.o -c \"/Users/maria/Desktop/drive mario/2º mario/data_structures/last exam C/CircularLinkedList/src/main.c\"",
+  "file": "/Users/maria/Desktop/drive mario/2º mario/data_structures/last exam C/CircularLinkedList/src/main.c",
+  "output": "CMakeFiles/data_structures_c.dir/src/main.c.o"
+}
+]
