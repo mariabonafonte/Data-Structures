@@ -14,12 +14,12 @@ Repository containing my projects and coursework for Data Structures at the Univ
 
 The repository contains the different assignments developed throughout the course.
 
-#### C programming
+#### C Programming Language
 * 📁 [Circular LinkedList](./C%20Programming/CircularLinkedList)
 * 📁 [PlayList](./C%20Programming/PlayList)
 
   
-#### Java language
+#### Java Programming Language
 * 📁 [Bipartite Project](./Java%20Programming/bipartite_project)
 
 
