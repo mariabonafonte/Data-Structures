@@ -23,14 +23,6 @@ The repository contains the different assignments developed throughout the cours
 * 📁 [Bipartite Project](./Java%20Programming/bipartite_project)
 
 
-
-### 🛠️ Technologies
-
-Depending on the project, this repository uses :
-
-* C language
-* Java language
-
 ### 👩‍💻 Author
 
 María Bonafonte Sánchez
