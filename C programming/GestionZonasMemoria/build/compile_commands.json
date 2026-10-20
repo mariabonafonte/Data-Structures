@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/maria/Downloads/GestionZonasMemoria/build",
+  "command": "/usr/bin/clang  -I/Users/maria/Downloads/GestionZonasMemoria/src/ColaL -g -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/data_structures_c.dir/src/main.c.o -c /Users/maria/Downloads/GestionZonasMemoria/src/main.c",
+  "file": "/Users/maria/Downloads/GestionZonasMemoria/src/main.c",
+  "output": "CMakeFiles/data_structures_c.dir/src/main.c.o"
+},
+{
+  "directory": "/Users/maria/Downloads/GestionZonasMemoria/build",
+  "command": "/usr/bin/clang  -I/Users/maria/Downloads/GestionZonasMemoria/src/ColaL -g -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/data_structures_c.dir/src/Memoria.c.o -c /Users/maria/Downloads/GestionZonasMemoria/src/Memoria.c",
+  "file": "/Users/maria/Downloads/GestionZonasMemoria/src/Memoria.c",
+  "output": "CMakeFiles/data_structures_c.dir/src/Memoria.c.o"
+}
+]
