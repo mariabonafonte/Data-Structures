@@ -17,10 +17,15 @@ The repository contains the different assignments developed throughout the cours
 #### C Programming Language
 * 📁 [Circular LinkedList](./C%20Programming/CircularLinkedList)
 * 📁 [PlayList](./C%20Programming/PlayList)
+* 📁 [TaskScheduler](./C%20Programming/TaskScheduler)
+* 📁 [Gestión de zonas de memoria](./C%20Programming/GestionZonasMemoria)
 
   
 #### Java Programming Language
 * 📁 [Bipartite Project](./Java%20Programming/bipartite_project)
+* 📁 [Cycles Project](./Java%20Programming/cycles_project)
+* 📁 [Exam February 2024](./Java%20Programming/exam_february_24)
+* 📁 [Serializar Arboles](./Java%20Programming/SerializarArboles)
 
 
 ### 👩‍💻 Author
